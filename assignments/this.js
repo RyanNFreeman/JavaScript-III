@@ -37,8 +37,6 @@ myName.combine();
 
 // Principle 3 =======> New Binding uses a "new" keyword to bind "this" to an object that is newly created by a constructor.
 
-myName.call()
-
 // create a constructor (capital letter) function that takes in an object literal first. 
 
 function Person(param) {
